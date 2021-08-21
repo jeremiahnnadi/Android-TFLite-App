@@ -1,102 +1,31 @@
-Apple Braeburn
-Apple Crimson Snow
-Apple Golden 1
-Apple Golden 2
-Apple Golden 3
-Apple Granny Smith
-Apple Pink Lady
-Apple Red 1
-Apple Red 2
-Apple Red 3
-Apple Red Delicious
-Apple Red Yellow 1
-Apple Red Yellow 2
-Apricot
-Avocado
-Avocado ripe
-Banana
-Banana Lady Finger
-Banana Red
-Cactus fruit
-Cantaloupe 1
-Cantaloupe 2
-Carambula
-Cherry 1
-Cherry 2
-Cherry Rainier
-Cherry Wax Black
-Cherry Wax Red
-Cherry Wax Yellow
-Chestnut
-Clementine
-Cocos
-Dates
-Granadilla
-Grape Blue
-Grape Pink
-Grape White
-Grape White 2
-Grape White 3
-Grape White 4
-Grapefruit Pink
-Grapefruit White
-Guava
-Hazelnut
-Huckleberry
-Kaki
-Kiwi
-Kohlrabi
-Kumquats
-Lemon
-Lemon Meyer
-Limes
-Lychee
-Mandarine
-Mango
-Mangostan
-Maracuja
-Melon Piel de Sapo
-Mulberry
-Nectarine
-Orange
-Papaya
-Passion Fruit
-Peach
-Peach 2
-Peach Flat
-Pear
-Pear Abate
-Pear Kaiser
-Pear Monster
-Pear Red
-Pear Williams
-Pepino
-Pepper Green
-Pepper Red
-Pepper Yellow
-Physalis
-Physalis with Husk
-Pineapple
-Pineapple Mini
-Pitahaya Red
-Plum
-Plum 2
-Plum 3
-Pomegranate
-Pomelo Sweetie
-Quince
-Rambutan
-Raspberry
-Redcurrant
-Salak
-Strawberry
-Strawberry Wedge
-Tamarillo
-Tangelo
-Tomato 1
-Tomato 2
-Tomato 3
-Tomato 4
-Tomato Cherry Red
-Tomato Maroon
-Walnut
+Apple___Apple_scab
+Apple___Black_rot
+Apple___Cedar_apple_rust
+Apple___healthy
+Cherry_(including_sour)___Powdery_mildew
+Cherry_(including_sour)___healthy
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+Corn_(maize)___Common_rust_
+Corn_(maize)___Northern_Leaf_Blight
+Corn_(maize)___healthy
+Grape___Black_rot
+Grape___Esca_(Black_Measles)
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+Grape___healthy
+Orange___Haunglongbing_(Citrus_greening)
+Pepper,_bell___Bacterial_spot
+Pepper,_bell___healthy
+Potato___Early_blight
+Potato___Late_blight
+Potato___healthy
+Soybean___healthy
+Tomato___Bacterial_spot
+Tomato___Early_blight
+Tomato___Late_blight
+Tomato___Leaf_Mold
+Tomato___Septoria_leaf_spot
+Tomato___Spider_mites Two-spotted_spider_mite
+Tomato___Target_Spot
+Tomato___Tomato_Yellow_Leaf_Curl_Virus
+Tomato___Tomato_mosaic_virus
+Tomato___healthy
